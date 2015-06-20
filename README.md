@@ -1,3 +1,3 @@
 # Scripts
 
-Somes scripts to make our life easier.
+Some scripts to make our life easier.
